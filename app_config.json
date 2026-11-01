@@ -1,5 +1,5 @@
 {
-  "app_enabled": false,
+  "app_enabled": true,
   "min_version": 1,
   "kill_message": "Aplikasi ini telah dinonaktifkan oleh Administrator.",
   "force_update_url": "https://github.com"
